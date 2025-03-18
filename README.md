@@ -20,7 +20,7 @@ python run_prediction.py --input input_example.csv --output prediction_result.ts
 
 ## Input Structure
 
-    Input Files Structure Should be Like:
+Input Files Structure Should be Like:
 
 ```
 Feature
