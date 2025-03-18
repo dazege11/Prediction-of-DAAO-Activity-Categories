@@ -15,8 +15,20 @@ pip3 install -r requirements.txt
 ## Example Usage
 
 ```
-python run_prediction.py --input input.csv --output prediction_result.txt
+python run_prediction.py --input input_example.csv --output prediction_result.tsv
 ```
+
+## Input Structure
+
+    Input Files Structure Should be Like:
+
+```
+Feature
+-------
+  ······
+---kkkk
+```
+
 
 ## Data Availablity
 
