@@ -20,7 +20,7 @@ python run_prediction.py --input input.csv --output prediction_result.txt
 
 ## Data Availablity
 
-The raw data from the analyses in the paper can be found here: 
+The raw data from the analyses in the paper can be found here: https://drive.google.com/drive/folders/1UJDOld0qZHSBSb1vNGik5AeufPUpS682?usp=sharing
 
 The folder contains the following files about the activity prediction result used in paper:
 
