@@ -25,7 +25,8 @@ Input Files Structure Should be Like:
 ```
 Feature
 -------
-  ······
+------k
+ ······
 ---kkkk
 ```
 
